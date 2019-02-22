@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chat.php</string>
+    <string name="connect">Connect</string>
+    <string name="server_adress">Enter server adress end press Connect</string>
+</resources>
